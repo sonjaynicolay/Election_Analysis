@@ -12,19 +12,19 @@ The additional information is provided and the finalized election results are su
 ## Election-Audit Results 
 
 
--**Turnout per County
+**-Turnout per County**
 
 Denver County had the highest turnout with 306,055 votes.
 Jefferson County was next with 38,855 votes.
 Arapahoe County came in with 24,801 votes.
 
--**Percentage of votes per County
+**-Percentage of votes per County**
 
 Denver County had majority of the votes at 82.8%.
 Jefferson County was not a close second with 10.5%.
 Arapahoe County came in at 6.7%.
 
--**The County with the Largest Turnout
+**-The County with the Largest Turnout**
 
 Denver by far had the largest turnout by over 70%.
 
